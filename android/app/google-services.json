@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787838582749",
+    "project_id": "images-37928",
+    "storage_bucket": "images-37928.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787838582749:android:54acd77d35f5f1b25ec034",
+        "android_client_info": {
+          "package_name": "com.example.supabaseuupload"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH5ur-g0BmmI_Nr8TfDyHgEPY75mHlbis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
